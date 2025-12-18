@@ -42,13 +42,13 @@
         "scheme": "file",
         "title": "Média de permanência hospitalar a partir de 2025",
         "stats": {
-          "hash": "84d61bc3542d51899ce6c9931c13e556",
-          "bytes": 4882,
+          "hash": "7fa23a323b4552688a9652ddec38ee86",
+          "bytes": 4856,
           "fields": 4,
-          "rows": 170
+          "rows": 165
         }
       },
-      "time": 0.013,
+      "time": 0.012,
       "scope": [
         "hash-count-error",
         "byte-count-error",
