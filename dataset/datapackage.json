@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados de média de permanência hospitalar por unidade FHEMIG a partir de 2025.",
+      "description": "Dados de média de permanência hospitalar por unidade FHEMIG.",
       "dialect": {
         "delimiter": ";"
       },
@@ -39,7 +39,7 @@
         ]
       },
       "scheme": "file",
-      "title": "Média de permanência hospitalar a partir de 2025"
+      "title": "Média de permanência hospitalar."
     }
   ],
   "title": "Média de Permanencia Hospitalar"
